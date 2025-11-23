@@ -1,6 +1,6 @@
 file_format: "1"
 id: keeb60
-name: 60% Matrix
+name: keeb60
 type: shield
 url: https://github.com/asitwouldseem/zmk-config-keeb60
 requires:
