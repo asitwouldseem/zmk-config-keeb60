@@ -1,7 +1,7 @@
-#include <dt-bindings/zmk/matrix_transform.h>
-#include "keeb60-layouts.dtsi"
+include <dt-bindings/zmk/matrix_transform.h>
+include "keeb60-layouts.dtsi"
 
-/ {
+{
     chosen {
         zmk,kscan = &kscan0;
         zmk,physical-layout = &physical_layout0;
