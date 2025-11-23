@@ -1,16 +1,10 @@
 #include <dt-bindings/zmk/matrix_transform.h>
+#include "keeb60-layouts.dtsi"
 
 / {
     chosen {
         zmk,kscan = &kscan0;
         zmk,physical-layout = &physical_layout0;
-    };
-
-    physical_layout0: physical_layout_0 {
-        compatible = "zmk,physical-layout";
-        display-name = "Default Layout";
-        kscan = <&kscan0>;
-        transform = <&default_transform>;
     };
 
     kscan0: kscan0 {
