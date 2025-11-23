@@ -2,6 +2,6 @@ if SHIELD_KEEB60
 
 # Name must be less than 16 characters long!
 config KEEB60
-    default "Keyboard Matrix"
+    default "keyboard60"
 
 endif
