@@ -4,4 +4,7 @@ if SHIELD_KEEB60
 config ZMK_KEYBOARD_NAME
     default "keyboard60"
 
+config CONFIG_USB_DEVICE_MANUFACTURER
+    default "Cameron M"
+
 endif
