@@ -16,15 +16,12 @@
             // |  Ctl  |Opt|Cmd|   |   | Space | L | R | U | D | / | Bkspe |
 
             bindings = <
-                &bt BT_CLR        &kp N1    &kp N2    &kp N3    &kp N4    &kp N5    &kp N6    &kp N7    &kp N8    &kp N9    &kp N0    &kp MINUS    &kp EQUAL
-                &kp TAB           &kp Q     &kp W     &kp E     &kp R     &kp T     &kp Y     &kp U     &kp I     &kp O     &kp P     &kp LBKT     &kp RBKT
-                &kp CAPS          &kp A     &kp S     &kp D     &kp F     &kp G     &kp H     &kp J     &kp K     &kp L     &kp SEMI  &kp APOS    &kp RETURN
-                &kp LSHFT         &kp Z               &kp X     &kp C     &kp V     &kp B     &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH     &kp RSHFT
-                &kp LCTRL         &kp LALT  &kp LGUI                      &kp SPACE           &kp LEFT  &kp RIGHT &kp UP    &kp DOWN  &kp BSLH     &kp BSPC
+                &kp ESC    &kp N1    &kp N2    &kp N3    &kp N4    &kp N5    &kp N6    &kp N7    &kp N8    &kp N9    &kp N0    &kp MINUS    &kp EQUAL
+                &kp TAB    &kp Q     &kp W     &kp E     &kp R     &kp T     &kp Y     &kp U     &kp I     &kp O     &kp P     &kp LBKT     &kp RBKT
+                &kp CAPS   &kp A     &kp S     &kp D     &kp F     &kp G     &kp H     &kp J     &kp K     &kp L     &kp SEMI  &kp APOS    &kp RETURN
+                &kp LSHFT  &kp Z               &kp X     &kp C     &kp V     &kp B     &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH     &kp RSHFT
+                &kp LCTRL  &kp LALT  &kp LGUI                      &kp SPACE           &kp LEFT  &kp RIGHT &kp UP    &kp DOWN  &kp BSLH     &kp BSPC
             >;
         };
     };
  };
-
-
-
